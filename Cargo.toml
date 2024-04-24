@@ -1,6 +1,6 @@
 [package]
 name = "chatgpt_rs"
-version = "1.2.3"
+version = "1.2.4"
 edition = "2021"
 description = "ChatGPT API Wrapper Cycle Five Maintained Port"
 authors = [
